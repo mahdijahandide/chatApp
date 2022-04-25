@@ -1,0 +1,204 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: mazarat-00879E6A-AD85-4FCB-A04F-AC06FEA488BF.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-15802A69-960F-4905-B74C-7789C28F27BC.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod9,1, os-version: 12.2], and [device: iPhone7,2, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-2E7B5E03-05D2-4747-9534-20650FFFCA43.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-306460ED-80E1-49C9-B120-BBC4DDA14F25.ipa
+Supported variant descriptors: [device: iPad4,2, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], and [device: iPad7,5, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-30D3C580-560A-489E-8D0B-94ECB9B414BE.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], and [device: iPhone11,2, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-36255E72-53D8-44F6-9480-52617561E882.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], and [device: iPhone6,2, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-46D8415B-71F8-44E7-8F3B-F56D82D961C7.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], and [device: iPhone10,3, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-470F46AC-2C9C-4F2B-8B87-40E8AD8FBEB4.ipa
+Supported variant descriptors: [device: iPad7,3, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad13,10, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad13,8, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad13,11, os-version: 14.0], and [device: iPad8,12, os-version: 13.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-4C96A1DF-7961-476B-8126-D9AFCEDEB8CF.ipa
+Supported variant descriptors: [device: iPad8,2, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], and [device: iPad8,6, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-5B9C3DC7-3E53-4D0E-AE90-7292C1C3B911.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-64552F1C-56F0-4B75-821F-75CD5918FF0B.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-751A7109-9C66-4A74-A934-1D0C541BCA44.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-7FDE7F09-DF2E-407F-9F47-41A8A9FADB93.ipa
+Supported variant descriptors: [device: iPad7,2, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], and [device: iPad8,8, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-8A3724BA-C77E-4855-900A-C9B905BE7BB6.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], and [device: iPhone10,1, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-90C32E9A-D233-41EE-A14E-6CE6FCDBA1F0.ipa
+Supported variant descriptors: [device: iPad7,12, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,6, os-version: 14.0], and [device: iPad7,5, os-version: 13.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-9681BEDC-4EE0-479E-B891-A51D0929911D.ipa
+Supported variant descriptors: [device: iPhone14,3, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], and [device: iPhone13,4, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-A3631238-40F7-4D4E-A52F-4584ADD4F6E4.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], and [device: iPhone12,8, os-version: 13.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-A4F1728D-D152-4584-93BB-F7BB30812442.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], [device: iPod9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], and [device: iPhone8,1, os-version: 13.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-A6E785AA-C2DE-4BFF-BB10-CFB4D9F68852.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-B237A2E9-B8D1-45EC-AF1B-5F3BF752B7CB.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,8, os-version: 12.0], and [device: iPad7,6, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-BA9B4A6D-6B4E-49E1-A390-609963FF262E.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], and [device: iPhone9,3, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-BF47DF5F-DA0A-42B0-995C-EEB4C4423B3C.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], and [device: iPhone10,5, os-version: 14.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-D6E66467-A2C6-464C-83DB-CB2440340A19.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0] and [device: iPhone12,1, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-D91DDFAB-6546-423E-A73D-699D200C09D3.ipa
+Supported variant descriptors: [device: iPad13,1, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,6, os-version: 15.0], and [device: iPad6,4, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-E13EFD63-AAE3-4408-ACCE-CF12D0B879CF.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad12,1, os-version: 15.0], and [device: iPad5,4, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-E2766814-A910-44C9-AB40-1F2E57C4A297.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPhone8,1, os-version: 15.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.3 MB uncompressed
+App size: 9.7 MB compressed, 22.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-F61107BD-A478-4824-82EF-719617E09293.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 9.7 MB compressed, 22.4 MB uncompressed
+App size: 9.7 MB compressed, 22.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat-F7E595B5-1FE3-4369-BDE9-7CFE986A7E31.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0] and [device: iPhone8,2, os-version: 12.0]
+App + On Demand Resources size: 12.2 MB compressed, 29.9 MB uncompressed
+App size: 12.2 MB compressed, 29.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: mazarat.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 12.3 MB compressed, 30.1 MB uncompressed
+App size: 12.3 MB compressed, 30.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
