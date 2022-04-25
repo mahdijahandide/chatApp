@@ -21,6 +21,7 @@ struct SettingHeaderView: View {
             VStack(alignment:.leading,spacing: 4){
                 Text("Mehdi Jahandide")
                     .font(.system(size: 18))
+                    .foregroundColor(Color.black)
                 
                 Text("Available")
                     .foregroundColor(Color.gray)

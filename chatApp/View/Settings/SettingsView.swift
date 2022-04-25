@@ -20,7 +20,9 @@ struct SettingsView: View {
                 Spacer()
                     .frame(height:0.1)
                 
-                SettingHeaderView()
+                NavigationLink(destination: EditProfileView(), label: {SettingHeaderView()})
+                
+                
                 
                 VStack (spacing:1){
                     ForEach(SettingsCellViewModel.allCases,id:\.self){ viewModel in
